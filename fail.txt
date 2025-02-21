@@ -1,0 +1,39 @@
+AD          OGR.NO      ARA SINAV   2.SINAV     ODEV        FINAL       DURUM       DEVAM SAYISI
+Osman       144         39          3           40          13          Kaldi       5           
+Osman       144         39          3           40          13          Kaldi       5           
+hasan       174         51          45          52          45          Kaldi       12          
+Ahmed       222         54          65          34          12          Kaldi       8           
+ela         225         43          51          3           1           Kaldi       3           
+Leyla       226         85          97          12          4           Kaldi       13          
+nuri        230         23          22          34          51          Kaldi       7           
+nuriye      297         92          83          49          4           Kaldi       7           
+mahmut      363         88          22          72          25          Kaldi       3           
+salih       384         20          4           9           6           Kaldi       4           
+nazlı       392         81          43          53          36          Kaldi       11          
+ayça        393         22          4           31          89          Kaldi       9           
+ceylan      394         46          44          31          12          Kaldi       10          
+Hakkı       457         54          87          56          23          Kaldi       14          
+Gizemsu     460         6           52          38          2           Kaldi       9           
+safinaz     468         42          76          9           18          Kaldi       9           
+bilge       472         64          49          93          5           Kaldi       3           
+hüsnü       480         19          45          44          53          Kaldi       8           
+Harun       532         43          4           46          62          Kaldi       12          
+Hasan       544         23          54          54          23          Kaldi       12          
+zeki        547         53          41          17          46          Kaldi       8           
+Hayri       586         84          48          5           17          Kaldi       2           
+mehtap      648         11          10          5           94          Kaldi       3           
+emre        695         38          25          27          4           Kaldi       2           
+mehmet ali  723         40          60          90          27          Kaldi       0           
+Adem        725         40          45          50          55          Kaldi       11          
+hilmi       828         18          79          13          1           Kaldi       11          
+Elif        835         7           52          88          13          Kaldi       12          
+salih       845         45          74          22          45          Kaldi       12          
+maraz ali   846         26          94          20          51          Kaldi       5           
+kaan        889         51          11          74          15          Kaldi       2           
+büşra       892         43          21          40          50          Kaldi       7           
+yavuz       902         3           25          49          75          Kaldi       14          
+güliz       905         79          13          39          49          Kaldi       8           
+arda        928         49          44          4           30          Kaldi       3           
+ceylan      948         55          35          87          11          Kaldi       14          
+gizem       998         38          60          82          16          Kaldi       6           
+Ali         999         87          23          54          23          Kaldi       11          
